@@ -1,0 +1,28 @@
+body{
+    background-color: #ddd;
+}
+#external{
+    background-color: grey;
+}
+.one{
+    background-color: yellow;
+    color:darkblue;
+    padding: 15px;
+}
+.red{
+    color: red;
+}
+.bg{
+    background-color: aqua;
+}
+.big{
+    font-size: 55px;
+}
+.center{
+    text-align: center;
+}
+/* Use of MDN CSS refrence property */
+.red{
+    block-size: 150px;
+    filter: brightness(100);
+}    
